@@ -29,3 +29,14 @@ Our goal is to accurately classify these species based on their features, showca
    ```bash
    git clone https://github.com/yourusername/iris-classification.git
 
+
+📊 Technologies Used
+Python 🐍
+Pandas 📊
+NumPy ➕
+Scikit-learn 🛠️
+Matplotlib & Seaborn 🎨
+
+✨ Contributing
+We welcome contributions! Feel free to fork the repository and submit a pull request.
+
